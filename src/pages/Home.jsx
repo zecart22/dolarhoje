@@ -293,7 +293,7 @@ da movimentação do par de moedas */
         /* mobile */
         <>
           <Box
-            width="50vw"
+            width="45vw"
             alignItems={"center"}
             ml="95px"
             justifyContent={"center"}

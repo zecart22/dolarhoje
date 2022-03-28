@@ -34,13 +34,6 @@ export const Header = () => {
             <HStack spacing="5">
               <Text as="button" _hover={{ transform: "translateY(-4px)" }}>
                 {isHome ? (
-                  <Link href="#">INICIO</Link>
-                ) : (
-                  <Link href="/">INICIO</Link>
-                )}
-              </Text>
-              <Text as="button" _hover={{ transform: "translateY(-4px)" }}>
-                {isHome ? (
                   <Link color="destak.main" href="https://bit.ly/3I4Q6WR">
                     PORTFÓLIO
                   </Link>
